@@ -4,10 +4,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-import chess.ChessException;
-import chess.ChessMatch;
-import chess.ChessPiece;
-import chess.ChessPosition;
+import Chess.ChessException;
+import Chess.ChessMatch;
+import Chess.ChessPiece;
+import Chess.ChessPosition;
 
 public class Program {
 
